@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for Flood
+about: Suggest an idea for DarkRP
 title: ''
 labels: ''
 assignees: ''

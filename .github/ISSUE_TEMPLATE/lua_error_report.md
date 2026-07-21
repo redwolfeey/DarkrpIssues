@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report about something that is broken in Darkrp
+about: Create a report about something that is replated to Lua code
 title: ''
 labels: Bug
 assignees: ''
