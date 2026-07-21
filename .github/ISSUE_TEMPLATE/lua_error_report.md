@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report about something that is replated to Lua code
+about: Create a report about something that is replated to lua code
 title: ''
 labels: Bug
 assignees: ''
