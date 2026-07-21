@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: Lua error report
 about: Create a report about something that is replated to lua code
 title: ''
-labels: Bug
-assignees: ''
+labels: ''
+assignees: redwolfeey
 
 ---
 

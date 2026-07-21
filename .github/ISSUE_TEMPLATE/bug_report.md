@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report about something that is broken in darkrp
 title: ''
-labels: Bug
-assignees: ''
+labels: ''
+assignees: redwolfeey
 
 ---
 
